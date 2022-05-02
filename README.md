@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @rxkusu
+- 👀 I’m interested in software engineering and web app development
+- 🌱 I’m currently learning python 
+- 💞️ I’m looking to collaborate on nothing at the moment 
+- 📫 How to reach me krishpatel9058@outlook.com
